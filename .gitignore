@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+.gradio/
+__pycache__/
+*.csv
